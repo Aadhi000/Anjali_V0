@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=WELCOME+to+ANJALI_V2+WA+BOT...;CREATED+BY+TOXIDE+SER+444...;THIS+IS+A+BGM+STICKER+BOT...;WITH+MORE+FEATURES...)](https://git.io/typing-svg)
 
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/N6b6cv3/Maalutty.png" width="200" height="200"/>
+  <img border-radius: 15px src="ANJALI_V2.png" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="ANJALI_V2" src="https://img.shields.io/badge/ANJALI_V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
