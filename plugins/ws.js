@@ -56,7 +56,7 @@ if (Config.WORKTYPE == 'private') {
         
 // EXPORTING
         reply = await message.client.sendMessage(message.jid,'*꧁•⊹٭𝚄𝙿𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝚂𝚃𝙰𝚃𝚄𝚂٭⊹•꧂*', MessageType.text);
-        await message.client.sendMessage(message.jid, Buffer(respovideo.data), MessageType.video, {mimetype: Mimetype.mp4, quoted: message.data, caption: '◄━━━━━━━⦁⦁ *ᴍᴀᴅᴇ ʙʏ ᴡʜɪᴛᴇ ᴅᴇᴠɪʟ* ⦁⦁━━━━━━━━►'})
+        await message.client.sendMessage(message.jid, Buffer(respovideo.data), MessageType.video, {mimetype: Mimetype.mp4, quoted: message.data, caption: '◄━━━━━━━⦁⦁ *ᴍᴀᴅᴇ ʙʏ ᴛᴏxɪᴅᴇ ꜱᴇʀ* ⦁⦁━━━━━━━━►'})
 
         
     }));
@@ -102,7 +102,7 @@ else if (Config.WORKTYPE == 'public') {
         
 // EXPORTING
         reply = await message.client.sendMessage(message.jid,'*꧁•⊹٭𝚄𝙿𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝚂𝚃𝙰𝚃𝚄𝚂٭⊹•꧂*',MessageType.text);
-        await message.client.sendMessage(message.jid, Buffer(respovideo.data), MessageType.video, {mimetype: Mimetype.mp4, caption: '◄━━━━━━━⦁⦁ *ᴍᴀᴅᴇ ʙʏ ɴᴀɴᴅʜᴜᴛᴛʏ* ⦁⦁━━━━━━━━►',})
+        await message.client.sendMessage(message.jid, Buffer(respovideo.data), MessageType.video, {mimetype: Mimetype.mp4, caption: '◄━━━━━━━⦁⦁ *ᴍᴀᴅᴇ ʙʏ ᴛᴏxɪᴅᴇ ꜱᴇʀ* ⦁⦁━━━━━━━━►',})
 
     }));
 
