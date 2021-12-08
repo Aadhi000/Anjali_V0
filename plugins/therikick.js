@@ -43,8 +43,8 @@ megalink()
 var ldc = ''
 if (Config.LANG == 'AZ') ldc = '*Bağlantı Aşkarlandı!*'
 if (Config.LANG == 'TR') ldc = '*‎Link Tespit Edildi!*'
-if (Config.LANG == 'EN') ldc = '➶➶➶➶➶ 𝙉𝘼𝙉𝘿𝙃𝙐𝙏𝙏𝙔 ➷➷➷➷➷ \n\n\n *ᴛʜᴇʀɪ ᴅᴇᴛᴇᴄᴛᴇᴅ! ᴍᴏɴᴇ ᴇᴇ ᴛʜᴇʀɪ ɪᴠᴅᴇ ᴀʟʟᴏᴡᴇᴅ ᴀʟʟᴀ ᴀᴘᴘᴏ ᴘɪɴɴᴇ ᴇɴɢᴀɴᴇ... , ᴏᴋᴇ ʙʏᴇ* \n\n *🕊🕊*'
-if (Config.LANG == 'ML') ldc = '➶➶➶➶➶ 𝙉𝘼𝙉𝘿𝙃𝙐𝙏𝙏𝙔 ➷➷➷➷➷ \n\n\n *ᴛʜᴇʀɪ ᴅᴇᴛᴇᴄᴛᴇᴅ! ᴍᴏɴᴇ ᴇᴇ ᴛʜᴇʀɪ ɪᴠᴅᴇ ᴀʟʟᴏᴡᴇᴅ ᴀʟʟᴀ ᴀᴘᴘᴏ ᴘɪɴɴᴇ ᴇɴɢᴀɴᴇ... , ᴏᴋᴇ ʙʏᴇ* \n\n *🕊🕊*'
+if (Config.LANG == 'EN') ldc = '➶➶➶➶➶ *ANJALI* ➷➷➷➷➷ \n\n\n *ᴛʜᴇʀɪ ᴅᴇᴛᴇᴄᴛᴇᴅ! ᴍᴏɴᴇ ᴇᴇ ᴛʜᴇʀɪ ɪᴠᴅᴇ ᴀʟʟᴏᴡᴇᴅ ᴀʟʟᴀ ᴀᴘᴘᴏ ᴘɪɴɴᴇ ᴇɴɢᴀɴᴇ... , ᴏᴋᴇ ʙʏᴇ* \n\n *🕊🕊*'
+if (Config.LANG == 'ML') ldc = '➶➶➶➶➶ *ANJALI* ➷➷➷➷➷ \n\n\n *ᴛʜᴇʀɪ ᴅᴇᴛᴇᴄᴛᴇᴅ! ᴍᴏɴᴇ ᴇᴇ ᴛʜᴇʀɪ ɪᴠᴅᴇ ᴀʟʟᴏᴡᴇᴅ ᴀʟʟᴀ ᴀᴘᴘᴏ ᴘɪɴɴᴇ ᴇɴɢᴀɴᴇ... , ᴏᴋᴇ ʙʏᴇ* \n\n *🕊🕊*'
 if (Config.LANG == 'ID') ldc = '*Tautan Terdeteksi!*'
 if (Config.LANG == 'PT') ldc = '*Link Detectado!*'
 if (Config.LANG == 'RU') ldc = '*Ссылка обнаружена!*'
@@ -57,10 +57,10 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
         let regex3 = new RegExp('thayoli')
         let regex4 = new RegExp('kunna')
         let regex5 = new RegExp('poorimone')
-        let regex6 = new RegExp('patti')
-        let regex7 = new RegExp('oombi')
-        let regex8 = new RegExp('thendi')
-        let regex9 = new RegExp('kundan')
+        let regex6 = new RegExp('koothi')
+        let regex7 = new RegExp('fuck')
+        let regex8 = new RegExp('myran')
+        let regex9 = new RegExp('andi')
         let regex10 = new RegExp('Thayoli')
         if (regex1.test(message.message)) {
             var us = await checkUsAdmin(message)
