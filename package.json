@@ -1,7 +1,7 @@
 {
   "name": "Maalutty",
   "version": "7.3.6",
-  "description": "Maalutty is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+  "description": "Anjali is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
   "main": "./Maalutty_V2/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
