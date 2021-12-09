@@ -11,7 +11,7 @@ var ddd = ggg.toString('utf-8')
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
-WhatsAlexa.addCommand({pattern: 'husni', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
+WhatsAlexa.addCommand({pattern: 'akshay', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
 // send a buttons message!
     var plk_say = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
@@ -19,15 +19,15 @@ var plk_here = new Date().toLocaleDateString(get_localized_date)
 var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '```'
 	const buttons = [
 
-        {buttonId: 'id1', buttonText: {displayText: 'WHATSAPP💝. \n husni : https://wa.me/917025868709'}, type: 1},
+        {buttonId: 'id1', buttonText: {displayText: 'WHATSAPP💝. \n ᴛᴏxɪᴅᴇ ꜱᴇʀ : https://wa.me/919048329892'}, type: 1},
         {buttonId: 'id2', buttonText: {displayText: 'VAIKUNNERAMAADA IPPO😂  \n  '}, type: 1},
         {buttonId: 'id3', buttonText: {displayText: 'FOOD KAZICHU 😁 \n neeyo😘 \n '  }, type: 1},
 
       ]
       
       const buttonMessage = {
-          contentText: 'nen maaluttyde owner husni😌\n monu food kazhicho😆',
-          footerText: '©ꪶ͢ʜᴜsɴɪ ÂÑD ɴɪᴊɪɴꫂ™',
+          contentText: 'nen Anjaliyde owner ᴛᴏxɪᴅᴇ ꜱᴇʀ😌\n monu food kazhicho😆',
+          footerText: '©ᴛᴏxɪᴅᴇ ꜱᴇʀꫂ™',
           buttons: buttons,
           headerType: 1
       }
