@@ -21,13 +21,13 @@ var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '
 
         {buttonId: 'id1', buttonText: {displayText: 'ASUGAMAAN \n sugalla 😌'}, type: 1},
         {buttonId: 'id2', buttonText: {displayText: 'onn poodey😏 '}, type: 1},
-        {buttonId: 'id3', buttonText: {displayText: 'NALLA SUGAAN☺️ \n Maalutty😘'  }, type: 1},
+        {buttonId: 'id3', buttonText: {displayText: 'NALLA SUGAAN☺️ \n Anjali😘'  }, type: 1},
 
       ]
       
       const buttonMessage = {
-          contentText: 'Endada monu sugalle🥰 \n Maaluttykk nalla sugaan😆',
-          footerText: '©ꪶ͢ʜᴜsɴɪ ÂÑD ɴɪᴊɪɴꫂ™',
+          contentText: 'Endada monu sugalle🥰 \n Anjaliykk nalla sugaan😆',
+          footerText: '©ᴛᴏxɪᴅᴇ ꜱᴇʀꫂ™',
           buttons: buttons,
           headerType: 1
       }
