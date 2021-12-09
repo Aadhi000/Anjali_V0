@@ -10,36 +10,34 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.ibb.co/JHqKPX5/Screenshot-2021-11-26-22-39-45-1.png";
+    r_text[0] = "https://github.com/TOXIDE-SER-444/ANJALI_V2/blob/0088b05af05db0798cf2220081b2cad39a50c17f/plugins/sql/AKSHAY.png";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `❤️Maalutty_v2💙
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `❤️ANJALI_V2💙
 
 *bot making video* : https://youtu.be/jF8wF1KdyOw
 
 
-*owner number husni* :https://wa.me/917025868709.
+*owner number ᴛᴏxɪᴅᴇ ꜱᴇʀ* :https://wa.me/919048329892.
             
 
-*owner number Nijin* :https://wa.me/919605385305.
+
+*owner id instagram* :https://instagram.com/mind_have_changed_?utm_medium=copy_link.
 
 
-*owner id instagram* :https://instagram.com/_husni_ser_.
+*github* : https://github.com/TOXIDE-SER-444/ANJALI_V2.
 
 
-*github* : https://github.com/nijin-husni/Maalutty.
+*audio commands* :https://github.com/TOXIDE-SER-444/uploads/tree/main/bgm.
 
-
-*audio commands* :https://github.com/nijin-husni/uploads/tree/main/bgm.
-
-*sticker commands* :https://github.com/nijin-husni/uploads/tree/main/stickers.
+*sticker commands* :https://github.com/TOXIDE-SER-444/uploads/tree/main/stickers.
 ■□■□■□■□■□■□■□■□■□■□
-❤️Maalutty💙
-▣▣ ~NIJIN~ AND ~HUSNI~ ▣▣
+❤️ANJALI_V2💙
+▣▣ ~ᴛᴏxɪᴅᴇ ꜱᴇʀ~ ▣▣
 
 `}) 
 
