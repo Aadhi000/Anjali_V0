@@ -6,7 +6,7 @@ const Config = require('../config');
 
 if (Config.WORKTYPE == 'private') {
     
-Anjali.addCommand({pattern: 'Anjali', fromMe: true,dontAddCommandList: true}, (async (message, match) => {
+Anjali.addCommand({pattern: 'anjali', fromMe: true,dontAddCommandList: true}, (async (message, match) => {
 
     var r_text = new Array ();    
 r_text[0] = "\nEda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda\n";
