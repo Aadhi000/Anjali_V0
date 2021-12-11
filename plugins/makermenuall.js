@@ -10,7 +10,7 @@ const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
 
-Hisham.addCommand({pattern: 'txtimg', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
+Hisham.addCommand({pattern: 'makermenu', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
 
     var r_text = new Array ();
     
@@ -664,7 +664,7 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, contextInfo: {mentionedJid: message.mention}, caption: `╭──────────────────╮
    ` + config.BOTPLK + `
 ╭────────────────╮
-            🔰𝙎𝙊𝙋𝙃𝙄𝘼 𝘽𝙊𝙏🔰
+            🔰*ANJALI V2 BOT*🔰
 ╰────────────────╯
 ╭────────────────────────────────────╮
  🔰 𝘼𝙇𝙇 𝙄𝙉 𝙊𝙉𝙀 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎 𝙋𝘼𝘾𝙆 𝙁𝙊𝙍 𝙇𝙊𝙂𝙊 𝙈𝘼𝙆𝙀𝙍🔰
