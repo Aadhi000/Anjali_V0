@@ -10,7 +10,7 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = "https://github.com/TOXIDE-SER-444/ANJALI_V2/blob/0088b05af05db0798cf2220081b2cad39a50c17f/plugins/sql/AKSHAY.png";
+    r_text[0] = "https://i.ibb.co/bN02xp3/IMG-20211211-WA0988.jpg";
     
     
     var i = Math.floor(1*Math.random())
