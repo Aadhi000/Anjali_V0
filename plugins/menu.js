@@ -10,7 +10,7 @@ Maalutty.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, 
     var r_text = new Array ();
     
     
-    r_text[0] = "https://github.com/TOXIDE-SER-444/ANJALI_V2/blob/6c350e4757b69b387d5ec2a8c695fcd6442b28b0/plugins/sql/AKSHAY.png";
+    r_text[0] = "https://i.ibb.co/bN02xp3/IMG-20211211-WA0988.jpg";
     
     
     var i = Math.floor(1*Math.random())
