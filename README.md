@@ -69,14 +69,14 @@ $ node anjali.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FO3JyZPm1ma3vHyEQjaToY)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://https://chat.whatsapp.com/LbEtdjqmtxa7jBmCrUdV7V)
   <div align="center">
 
 
 Click WA logo to Join public bot Group👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BUt420LTGKBHNHALHKV9jJ)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LbEtdjqmtxa7jBmCrUdV7V)
   <div align="center">
 
   </div>
