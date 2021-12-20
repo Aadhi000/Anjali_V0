@@ -6,7 +6,7 @@ const Config = require('../config');
 
 if (Config.WORKTYPE == 'private') {
     
-Anjali.addCommand({pattern: 'anjali', fromMe: true,dontAddCommandList: true}, (async (message, match) => {
+Anjali.addCommand({pattern: 'anju', fromMe: true,dontAddCommandList: true}, (async (message, match) => {
 
     var r_text = new Array ();    
 r_text[0] = "\nEda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda\n";
@@ -61,7 +61,7 @@ await message.sendMessage(r_text[i]);
 
 else if (Config.WORKTYPE == 'public') {
     
-Anjali.addCommand({pattern: 'anjali', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
+Anjali.addCommand({pattern: 'anju', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
 
     var r_text = new Array ();    
 r_text[0] = "\nEda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda\n";
