@@ -39,7 +39,7 @@ Asena.addCommand({pattern: 'infoask', fromMe: true}, (async (message, match) => 
 
 }));
    
-Asena.addCommand({pattern: 'love', fromMe: true}, (async (message, match) => {
+Asena.addCommand({pattern: 'myr', fromMe: true}, (async (message, match) => {
 
     await message.sendMessage('*N*');
     await message.sendMessage('*NI*');
@@ -67,6 +67,6 @@ Asena.addCommand({pattern: 'love', fromMe: true}, (async (message, match) => {
 
 Asena.addCommand({pattern: 'infolove', fromMe: true}, (async (message, match) => {
 
-    await message.sendMessage("*Codded by TOXIDE-SER*\n*To say best way ı love you.*\n💻Usage: *.love*")
+    await message.sendMessage("*Codded by TOXIDE-SER*\n*To say best way to thanthakku vili.*\n💻Usage: *.love*")
 
 }));
