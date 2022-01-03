@@ -1,4 +1,4 @@
-<h3 align="center">💝ANJALI_V2💝</h3>
+<h3 align="center">💝ANJALI_V0💝</h3>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=WELCOME+to+ANJALI_V2+WA+BOT...;CREATED+BY+TOXIDE+SER+444...;THIS+IS+A+BGM+STICKER+BOT...;WITH+MORE+FEATURES...)](https://git.io/typing-svg)
 
@@ -37,7 +37,7 @@ GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
 $ git clone https://github.com/TOXIDE-SER-444/ANJALI_V2
-$ cd ANJALI_V2
+$ cd ANJALI_V0
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node anjali.js
@@ -46,7 +46,7 @@ $ node anjali.js
 ```js
 SETUP
 $ git clone https://github.com/TOXIDE-SER-444/ANJALI_V2
-$ cd ANJALI_V2
+$ cd ANJALI_V0
 $ npm i
 $ node anjali.js
 ```
@@ -90,7 +90,7 @@ Click WA logo to Join public bot Group👇
 
 [![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://instagram.com/mind_have_changed_?utm_medium=copy_link)
 
-### ❤️ ANJALI_V2 💙 website⤵️
+### ❤️ ANJALI_V0 💙 website⤵️
 
 [![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://ANJALI_V2nijinhusni.blogspot.com)
 
