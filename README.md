@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/TOXIDE-SER-444">TOXIDE-SER-444</a
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIDE-SER-444/ANJALI_V2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/Anjali_V0) 
  
 ### The Hard Method
 ```js
